@@ -19,10 +19,9 @@ Welcome to my personal learning, revision, and code repository! Here, I document
 - [**`03-Development/`**](./03-Development/) – Frontend, Backend, APIs, and Databases.
   - ⚡ [**`01-Redis-Core-Concepts.md`**](./03-Development/Databases/Redis/01-Redis-Core-Concepts.md)
   - 🛠️ [**`02-Redis-Practical-Projects.md`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
-- [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design.
+- [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series).
   - 🏗️ [**`00-System-Design-Roadmap.md`**](./04-System-Design/00-System-Design-Roadmap.md)
-  - 📌 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Day 1 - Intro)*
-  - 🚀 [**`02-Scalability-and-Distributed-Architecture.md`**](./04-System-Design/02-Scalability-and-Distributed-Architecture.md) *(Day 2 - Amazon System Architecture & Components)*
+  - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Video #1 - Scalable System Architecture Guide)*
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 
