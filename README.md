@@ -21,7 +21,8 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 🛠️ [**`02-Redis-Practical-Projects.md`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
 - [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series).
   - 🏗️ [**`00-System-Design-Roadmap.md`**](./04-System-Design/00-System-Design-Roadmap.md)
-  - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Video #1 - Scalable System Architecture Guide)*
+  - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Day 1 - Scalable System Architecture Guide)*
+  - 🚢 [**`02-Traffic-Patterns-Containers-and-Kubernetes.md`**](./04-System-Design/02-Traffic-Patterns-Containers-and-Kubernetes.md) *(Day 2 - Netflix vs YouTube vs Hotstar, Docker & K8s)*
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 

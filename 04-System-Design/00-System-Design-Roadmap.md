@@ -6,10 +6,10 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 
 ## 📅 Progress Tracker
 
-- [x] **Day 1**: [01. What is System Design? (Intro, Single Server Architecture)](./01-What-is-System-Design.md)
-- [ ] **Day 2**: Scalability & Load Balancing (Vertical vs Horizontal Scaling)
+- [x] **Day 1**: [01. What is System Design? (Scalable System Architecture Guide)](./01-What-is-System-Design.md)
+- [x] **Day 2**: [02. Traffic Patterns, Serverless, Docker & Kubernetes (Netflix vs YouTube vs Hotstar Case Study)](./02-Traffic-Patterns-Containers-and-Kubernetes.md)
 - [ ] **Day 3**: Caching Strategies & Redis Eviction Policies
-- [ ] **Day 4**: Database Scaling & Sharding (SQL vs NoSQL)
+- [ ] **Day 4**: Database Scaling, Sharding & Partitioning (SQL vs NoSQL)
 - [ ] **Day 5**: CAP Theorem & Consistency Models (PACELC)
 - [ ] **Day 6**: Message Queues & Event Driven Architecture (Kafka, RabbitMQ)
 - [ ] **Day 7**: Rate Limiter Algorithms Deep Dive (Token Bucket, Leaky Bucket)
