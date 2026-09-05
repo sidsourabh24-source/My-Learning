@@ -7,12 +7,12 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 ## 📅 Progress Tracker
 
 - [x] **Day 1**: [01. What is System Design? (Scalable System Architecture Guide)](./01-What-is-System-Design.md)
-- [x] **Day 2**: [02. Traffic Patterns, Serverless, Docker & Kubernetes (Netflix vs YouTube vs Hotstar Case Study)](./02-Traffic-Patterns-Containers-and-Kubernetes.md)
-- [ ] **Day 3**: Caching Strategies & Redis Eviction Policies
-- [ ] **Day 4**: Database Scaling, Sharding & Partitioning (SQL vs NoSQL)
-- [ ] **Day 5**: CAP Theorem & Consistency Models (PACELC)
-- [ ] **Day 6**: Message Queues & Event Driven Architecture (Kafka, RabbitMQ)
-- [ ] **Day 7**: Rate Limiter Algorithms Deep Dive (Token Bucket, Leaky Bucket)
-- [ ] **Day 8**: System Design Case Study 1 - URL Shortener (TinyURL)
-- [ ] **Day 9**: System Design Case Study 2 - Notification System
-- [ ] **Day 10**: System Design Case Study 3 - Real-time Chat / WhatsApp Architecture
+- [x] **Day 2**: [02. Traffic Patterns, Serverless, Docker & Kubernetes (Netflix vs YouTube vs Hotstar)](./02-Traffic-Patterns-Containers-and-Kubernetes.md)
+- [x] **Day 3**: [03. Event Sourcing Pattern (Append-Only Event Store & Snapshots)](./03-Event-Sourcing-Pattern.md)
+- [x] **Day 4**: [04. CQRS Pattern (Command Query Responsibility Segregation & Eventual Consistency)](./04-CQRS-Pattern.md)
+- [ ] **Day 5**: Caching Strategies & Redis Eviction Policies
+- [ ] **Day 6**: Database Scaling, Sharding & Consistent Hashing
+- [ ] **Day 7**: CAP Theorem & Distributed Consistency Models (PACELC)
+- [ ] **Day 8**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)
+- [ ] **Day 9**: Rate Limiter Algorithms Deep Dive (Token Bucket, Leaky Bucket)
+- [ ] **Day 10**: Case Study - High-Scale Production System Architecture
