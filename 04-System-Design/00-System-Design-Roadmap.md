@@ -15,4 +15,9 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 - [ ] **Day 7**: CAP Theorem & Distributed Consistency Models (PACELC)
 - [ ] **Day 8**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)
 - [ ] **Day 9**: Rate Limiter Algorithms Deep Dive (Token Bucket, Leaky Bucket)
+- [x] **Day 5**: [05. Back-of-the-Envelope Estimation & Rate Limiting Architecture (5 Algorithms & Redis Race Conditions)](./05-Calculations-and-Rate-Limiting.md)
+- [ ] **Day 6**: Caching Strategies & Redis Eviction Policies
+- [ ] **Day 7**: Database Scaling, Sharding & Consistent Hashing
+- [ ] **Day 8**: CAP Theorem & Distributed Consistency Models (PACELC)
+- [ ] **Day 9**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)
 - [ ] **Day 10**: Case Study - High-Scale Production System Architecture
