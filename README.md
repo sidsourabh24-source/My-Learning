@@ -26,6 +26,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 📜 [**`03-Event-Sourcing-Pattern.md`**](./04-System-Design/03-Event-Sourcing-Pattern.md) *(Day 3 - Event Sourcing, Rehydration & Snapshots)*
   - ⚡ [**`04-CQRS-Pattern.md`**](./04-System-Design/04-CQRS-Pattern.md) *(Day 4 - Command Query Responsibility Segregation & Eventual Consistency)*
   - 📐 [**`05-Calculations-and-Rate-Limiting.md`**](./04-System-Design/05-Calculations-and-Rate-Limiting.md) *(Day 5 - Back-of-Envelope & Rate Limiting Architecture)*
+  - ⭕ [**`06-Consistent-Hashing.md`**](./04-System-Design/06-Consistent-Hashing.md) *(Day 6 - The Hash Ring, Virtual Nodes & DynamoDB)*
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 
