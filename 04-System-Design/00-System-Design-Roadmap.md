@@ -23,3 +23,7 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 - [ ] **Day 8**: CAP Theorem & Distributed Consistency Models (PACELC)
 - [ ] **Day 9**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)
 - [ ] **Day 10**: Case Study - High-Scale Production System Architecture
+- [x] **Day 7**: [07. How Video Streaming Works at Scale (HLS, DASH, Adaptive Bitrate & Transcoding Pipeline)](./07-Video-Streaming-System-Design.md)
+- [ ] **Day 8**: Database Scaling, Sharding & Replication
+- [ ] **Day 9**: CAP Theorem & Distributed Consistency Models (PACELC)
+- [ ] **Day 10**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)

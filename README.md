@@ -27,6 +27,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - ⚡ [**`04-CQRS-Pattern.md`**](./04-System-Design/04-CQRS-Pattern.md) *(Day 4 - Command Query Responsibility Segregation & Eventual Consistency)*
   - 📐 [**`05-Calculations-and-Rate-Limiting.md`**](./04-System-Design/05-Calculations-and-Rate-Limiting.md) *(Day 5 - Back-of-Envelope & Rate Limiting Architecture)*
   - ⭕ [**`06-Consistent-Hashing.md`**](./04-System-Design/06-Consistent-Hashing.md) *(Day 6 - The Hash Ring, Virtual Nodes & DynamoDB)*
+  - 🎬 [**`07-Video-Streaming-System-Design.md`**](./04-System-Design/07-Video-Streaming-System-Design.md) *(Day 7 - How Video Streaming Works at Scale: HLS, DASH & FFmpeg Pipeline)*
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 
