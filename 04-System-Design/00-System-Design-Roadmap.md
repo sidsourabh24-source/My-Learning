@@ -29,4 +29,5 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 - [x] **Day 8**: [08. UPI Payments Architecture (NPCI Central Switch, VPA, Saga Pattern & Idempotency)](./08-UPI-System-Design.md)
 - [ ] **Day 9**: CAP Theorem & Distributed Consistency Models (PACELC)
 - [ ] **Day 10**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)
+- [x] **Day 9**: [09. Bloom Filters & Multi-Party Video Calls (WebRTC, Mesh vs MCU vs SFU Architecture)](./09-Bloom-Filters-and-Video-Conferencing.md)
 - [ ] **Day 10**: Case Study - High-Scale Distributed Production System Architecture

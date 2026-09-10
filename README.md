@@ -29,6 +29,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - ⭕ [**`06-Consistent-Hashing.md`**](./04-System-Design/06-Consistent-Hashing.md) *(Day 6 - The Hash Ring, Virtual Nodes & DynamoDB)*
   - 🎬 [**`07-Video-Streaming-System-Design.md`**](./04-System-Design/07-Video-Streaming-System-Design.md) *(Day 7 - How Video Streaming Works at Scale: HLS, DASH & FFmpeg Pipeline)*
   - 🇮🇳 [**`08-UPI-System-Design.md`**](./04-System-Design/08-UPI-System-Design.md) *(Day 8 - UPI Payments Architecture: NPCI Switch, Saga Pattern & Idempotency)*
+  - 🧠 [**`09-Bloom-Filters-and-Video-Conferencing.md`**](./04-System-Design/09-Bloom-Filters-and-Video-Conferencing.md) *(Day 9 - Bloom Filters & Multi-Party Video Calls: WebRTC, MCU vs SFU)*
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 
