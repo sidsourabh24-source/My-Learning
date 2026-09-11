@@ -2,10 +2,12 @@
 
 Personal study roadmap for mastering Low-Level and High-Level System Design (LLD & HLD) with **Piyush Garg's Playlist**.
 Personal study roadmap for mastering Low-Level and High-Level System Design (LLD & HLD) with **Piyush Garg's Playlist & ByteByteGo Guides**.
+Personal study roadmap for mastering Low-Level and High-Level System Design (LLD & HLD) with **Piyush Garg's Playlist & Tech Guides**.
 
 ---
 
 ## 📅 Progress Tracker
+## 📅 Progress Tracker (10/10 Completed! 🎉)
 
 - [x] **Day 1**: [01. What is System Design? (Scalable System Architecture Guide)](./01-What-is-System-Design.md)
 - [x] **Day 2**: [02. Traffic Patterns, Serverless, Docker & Kubernetes (Netflix vs YouTube vs Hotstar)](./02-Traffic-Patterns-Containers-and-Kubernetes.md)
@@ -31,3 +33,5 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 - [ ] **Day 10**: Message Queues & Event-Driven Architecture (Kafka vs RabbitMQ)
 - [x] **Day 9**: [09. Bloom Filters & Multi-Party Video Calls (WebRTC, Mesh vs MCU vs SFU Architecture)](./09-Bloom-Filters-and-Video-Conferencing.md)
 - [ ] **Day 10**: Case Study - High-Scale Distributed Production System Architecture
+- [x] **Day 10**: [10. Gossip Protocol in Distributed Systems (Epidemic Spread, Heartbeats & P2P State)](./10-Gossip-Protocol.md)
+
