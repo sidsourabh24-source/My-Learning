@@ -35,3 +35,4 @@ Personal study roadmap for mastering Low-Level and High-Level System Design (LLD
 - [ ] **Day 10**: Case Study - High-Scale Distributed Production System Architecture
 - [x] **Day 10**: [10. Gossip Protocol in Distributed Systems (Epidemic Spread, Heartbeats & P2P State)](./10-Gossip-Protocol.md)
 
+- [x] **Day 11**: [11. Master Message Queues & Production Design Patterns (Circuit Breaker, Outbox & Saga)](./11-Message-Queues-and-Design-Patterns.md)
