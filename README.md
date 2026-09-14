@@ -21,6 +21,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 🛠️ [**`02-Redis-Practical-Projects.md`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
 - [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series).
 - [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (10/10 Complete! 🎉).
+- [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series - 10/10 Complete! 🎉).
   - 🏗️ [**`00-System-Design-Roadmap.md`**](./04-System-Design/00-System-Design-Roadmap.md)
   - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Day 1 - Scalable System Architecture Guide)*
   - 🚢 [**`02-Traffic-Patterns-Containers-and-Kubernetes.md`**](./04-System-Design/02-Traffic-Patterns-Containers-and-Kubernetes.md) *(Day 2 - Netflix vs YouTube vs Hotstar, Docker & K8s)*
@@ -43,8 +44,11 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 🗣️ [**`10-Gossip-Protocol.md`**](./04-System-Design/10-Gossip-Protocol.md)
   - 🗣️ [**`10-Gossip-Protocol.md`**](./04-System-Design/10-Gossip-Protocol.md) *(Day 10 - Gossip Protocol: Epidemic Spread, Heartbeats & P2P State)*
   - 📬 [**`11-Message-Queues-and-Design-Patterns.md`**](./04-System-Design/11-Message-Queues-and-Design-Patterns.md) *(Day 11 - Master Message Queues & Production Design Patterns: Circuit Breaker, Outbox & Saga)*
+  - 📬 [**`11-Message-Queues-and-Design-Patterns.md`**](./04-System-Design/11-Message-Queues-and-Design-Patterns.md)
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
   - 🐳 [**`01-Docker-Complete-Guide.md`**](./05-Tools-DevOps/Docker/01-Docker-Complete-Guide.md) *(Architecture, Commands, Dockerfile & Volumes)*
+  - 🐳 [**`01-Docker-Architecture-and-CLI.md`**](./05-Tools-DevOps/Docker/01-Docker-Architecture-and-CLI.md) *(Day 1 - Architecture, VMs vs Containers & CLI)*
+  - 📦 [**`02-Dockerfile-Volumes-Networks-and-Compose.md`**](./05-Tools-DevOps/Docker/02-Dockerfile-Volumes-Networks-and-Compose.md) *(Day 2 - Custom Dockerfile, Volumes, Networks & Docker Compose)*
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 
 ---
