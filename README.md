@@ -24,6 +24,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - ⚡ [**`Redis Core Concepts`**](./03-Development/Databases/Redis/01-Redis-Core-Concepts.md)
   - 🛠️ [**`Redis Practical Projects`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
   - 🐘 [**`01-Postgres-Basics-and-CRUD.md`**](./03-Development/Databases/PostgreSQL/01-Postgres-Basics-and-CRUD.md) *(Day 1 - Fundamentals, Types, DDL & CRUD)*
+  - 🤝 [**`02-Postgres-Joins-Aggregations-and-Grouping.md`**](./03-Development/Databases/PostgreSQL/02-Postgres-Joins-Aggregations-and-Grouping.md) *(Day 2 - Aggregations, GROUP BY, HAVING, All 5 JOINS & Set Operations)*
 - [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series - 10/10 Complete! 🎉).
   - 🏗️ [**`00-System-Design-Roadmap.md`**](./04-System-Design/00-System-Design-Roadmap.md)
   - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Day 1 - Scalable System Architecture Guide)*
