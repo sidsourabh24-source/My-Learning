@@ -21,6 +21,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 🛠️ [**`02-Redis-Practical-Projects.md`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
   - 🐘 [**`01-Postgres-Basics-and-CRUD.md`**](./03-Development/Databases/PostgreSQL/01-Postgres-Basics-and-CRUD.md) *(Day 1 - Fundamentals, Types, DDL & CRUD)*
   - 🔍 [**`02-Postgres-Data-Refining-Operators-Aggregates-and-String-Functions.md`**](./03-Development/Databases/PostgreSQL/02-Postgres-Data-Refining-Operators-Aggregates-and-String-Functions.md) *(Day 2 - WHERE, ORDER BY, Operators, Aggregates, GROUP BY & String Functions)*
+  - 🔗 [**`03-Postgres-Alter-Constraints-Relationships-Joins-and-Project.md`**](./03-Development/Databases/PostgreSQL/03-Postgres-Alter-Constraints-Relationships-Joins-and-Project.md) *(Day 3 - ALTER Table, CHECK Constraints, 1:1, 1:N, M:N Relationships, JOINs & E-Store Project)*
 - [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series - 11/11 Complete! 🎉).
   - 🏗️ [**`00-System-Design-Roadmap.md`**](./04-System-Design/00-System-Design-Roadmap.md)
   - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Day 1 - Scalable System Architecture Guide)*
