@@ -19,17 +19,11 @@ Welcome to my personal learning, revision, and code repository! Here, I document
 - [**`03-Development/`**](./03-Development/) – Frontend, Backend, APIs, and Databases.
   - ⚡ [**`01-Redis-Core-Concepts.md`**](./03-Development/Databases/Redis/01-Redis-Core-Concepts.md)
   - 🛠️ [**`02-Redis-Practical-Projects.md`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
-- [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series).
-- [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (10/10 Complete! 🎉).
-  - ⚡ [**`Redis Core Concepts`**](./03-Development/Databases/Redis/01-Redis-Core-Concepts.md)
-  - �️ [**`Redis Practical Projects`**](./03-Development/Databases/Redis/02-Redis-Practical-Projects.md)
-  - �🐘 [**`01-Postgres-Basics-and-CRUD.md`**](./03-Development/Databases/PostgreSQL/01-Postgres-Basics-and-CRUD.md) *(Day 1 - Fundamentals, Types, DDL & CRUD)*
-  - 🤝 [**`02-Postgres-Joins-Aggregations-and-Grouping.md`**](./03-Development/Databases/PostgreSQL/02-Postgres-Joins-Aggregations-and-Grouping.md) *(Day 2 - Aggregations, GROUP BY, HAVING, All 5 JOINS & Set Operations)*
-- [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series - 10/10 Complete! 🎉).
   - 🐘 [**`01-Postgres-Basics-and-CRUD.md`**](./03-Development/Databases/PostgreSQL/01-Postgres-Basics-and-CRUD.md) *(Day 1 - Fundamentals, Types, DDL & CRUD)*
   - 🔍 [**`02-Postgres-Data-Refining-Operators-Aggregates-and-String-Functions.md`**](./03-Development/Databases/PostgreSQL/02-Postgres-Data-Refining-Operators-Aggregates-and-String-Functions.md) *(Day 2 - WHERE, ORDER BY, Operators, Aggregates, GROUP BY & String Functions)*
   - 🔗 [**`03-Postgres-Alter-Constraints-Relationships-Joins-and-Project.md`**](./03-Development/Databases/PostgreSQL/03-Postgres-Alter-Constraints-Relationships-Joins-and-Project.md) *(Day 3 - ALTER Table, CHECK Constraints, 1:1, 1:N, M:N Relationships, JOINs & E-Store Project)*
-  - ⚡ [**`04-Postgres-Views-Procedures-Functions-WindowFunctions-CTEs-and-Triggers.md`**](./03-Development/Databases/PostgreSQL/04-Postgres-Views-Procedures-Functions-WindowFunctions-CTEs-and-Triggers.md) *(Day 4 - Views, Stored Procedures, Functions, Window Functions, CTEs & Triggers - Course Complete! 🎉)*
+  - ⚡ [**`04-Postgres-Views-Procedures-Functions-WindowFunctions-CTEs-and-Triggers.md`**](./03-Development/Databases/PostgreSQL/04-Postgres-Views-Procedures-Functions-WindowFunctions-CTEs-and-Triggers.md) *(Day 4 - Views, Stored Procedures, Functions, Window Functions, CTEs & Triggers)*
+  - 🧠 [**`05-Postgres-pgvector-Embeddings-and-AI-Vector-Search.md`**](./03-Development/Databases/PostgreSQL/05-Postgres-pgvector-Embeddings-and-AI-Vector-Search.md) *(Day 5 - pgvector, AI Embeddings, HNSW/IVFFlat Indexing, Hybrid Search & RAG)*
 - [**`04-System-Design/`**](./04-System-Design/) – System Architecture & High-Level Design (Piyush Garg Series - 11/11 Complete! 🎉).
   - 🏗️ [**`00-System-Design-Roadmap.md`**](./04-System-Design/00-System-Design-Roadmap.md)
   - 🚀 [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md) *(Day 1 - Scalable System Architecture Guide)*
@@ -41,26 +35,11 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 🎬 [**`07-Video-Streaming-System-Design.md`**](./04-System-Design/07-Video-Streaming-System-Design.md) *(Day 7 - How Video Streaming Works at Scale: HLS, DASH & FFmpeg Pipeline)*
   - 🇮🇳 [**`08-UPI-System-Design.md`**](./04-System-Design/08-UPI-System-Design.md) *(Day 8 - UPI Payments Architecture: NPCI Switch, Saga Pattern & Idempotency)*
   - 🧠 [**`09-Bloom-Filters-and-Video-Conferencing.md`**](./04-System-Design/09-Bloom-Filters-and-Video-Conferencing.md) *(Day 9 - Bloom Filters & Multi-Party Video Calls: WebRTC, MCU vs SFU)*
-  - � [**`01-What-is-System-Design.md`**](./04-System-Design/01-What-is-System-Design.md)
-  - 🚢 [**`02-Traffic-Patterns-Containers-and-Kubernetes.md`**](./04-System-Design/02-Traffic-Patterns-Containers-and-Kubernetes.md)
-  - 📜 [**`03-Event-Sourcing-Pattern.md`**](./04-System-Design/03-Event-Sourcing-Pattern.md)
-  - ⚡ [**`04-CQRS-Pattern.md`**](./04-System-Design/04-CQRS-Pattern.md)
-  - 📐 [**`05-Calculations-and-Rate-Limiting.md`**](./04-System-Design/05-Calculations-and-Rate-Limiting.md)
-  - ⭕ [**`06-Consistent-Hashing.md`**](./04-System-Design/06-Consistent-Hashing.md)
-  - 🎬 [**`07-Video-Streaming-System-Design.md`**](./04-System-Design/07-Video-Streaming-System-Design.md)
-  - 🇮🇳 [**`08-UPI-System-Design.md`**](./04-System-Design/08-UPI-System-Design.md)
-  - 🧠 [**`09-Bloom-Filters-and-Video-Conferencing.md`**](./04-System-Design/09-Bloom-Filters-and-Video-Conferencing.md)
-  - 🗣️ [**`10-Gossip-Protocol.md`**](./04-System-Design/10-Gossip-Protocol.md)
-  - �🗣️ [**`10-Gossip-Protocol.md`**](./04-System-Design/10-Gossip-Protocol.md) *(Day 10 - Gossip Protocol: Epidemic Spread, Heartbeats & P2P State)*
   - 🗣️ [**`10-Gossip-Protocol.md`**](./04-System-Design/10-Gossip-Protocol.md) *(Day 10 - Gossip Protocol: Epidemic Spread, Heartbeats & P2P State)*
   - 📬 [**`11-Message-Queues-and-Design-Patterns.md`**](./04-System-Design/11-Message-Queues-and-Design-Patterns.md) *(Day 11 - Master Message Queues & Production Design Patterns: Circuit Breaker, Outbox & Saga)*
-  - 📬 [**`11-Message-Queues-and-Design-Patterns.md`**](./04-System-Design/11-Message-Queues-and-Design-Patterns.md)
 - [**`05-Tools-DevOps/`**](./05-Tools-DevOps/) – Git, Docker, Linux, and Cloud.
-  - 🐳 [**`01-Docker-Complete-Guide.md`**](./05-Tools-DevOps/Docker/01-Docker-Complete-Guide.md) *(Architecture, Commands, Dockerfile & Volumes)*
   - 🐳 [**`01-Docker-Architecture-and-CLI.md`**](./05-Tools-DevOps/Docker/01-Docker-Architecture-and-CLI.md) *(Day 1 - Architecture, VMs vs Containers & CLI)*
   - 📦 [**`02-Dockerfile-Volumes-Networks-and-Compose.md`**](./05-Tools-DevOps/Docker/02-Dockerfile-Volumes-Networks-and-Compose.md) *(Day 2 - Custom Dockerfile, Volumes, Networks & Docker Compose)*
-  - 🐳 [**`01-Docker-Architecture-and-CLI.md`**](./05-Tools-DevOps/Docker/01-Docker-Architecture-and-CLI.md)
-  - 📦 [**`02-Dockerfile-Volumes-Networks-and-Compose.md`**](./05-Tools-DevOps/Docker/02-Dockerfile-Volumes-Networks-and-Compose.md)
 - [**`06-Misc-Learnings/`**](./06-Misc-Learnings/) – AI tools and new technologies.
 
 ---
