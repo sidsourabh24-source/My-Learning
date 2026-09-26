@@ -42,7 +42,7 @@
   ┌─────────────────────────────────────────────────────────────────────────────────┐
   │                           Single PostgreSQL Engine                              │
   │  ┌─────────────────────────┬─────────────────────────┬───────────────────────┐  │
-  │  │  Users & Permissions    │   ACID Transactions     │ pgvector AI Embeddings│  │
+  │  │  Users & Permissions   │   ACID Transactions     │ pgvector AI Embeddings│  │
   │  │   (Relational SQL)      │   (Zero Sync Drift)     │  (HNSW / Vector Index)│  │
   │  └─────────────────────────┴─────────────────────────┴───────────────────────┘  │
   └─────────────────────────────────────────────────────────────────────────────────┘
@@ -528,3 +528,4 @@ SELECT pgai.openai_embed('text-embedding-3-small', 'What is consistent hashing?'
 ---
 
 > 🚀 **PostgreSQL + pgvector Mastery Complete! You are now ready to build scalable, production-grade AI & RAG systems on PostgreSQL!**
+
