@@ -44,6 +44,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - 🤖 [**`01-How-LLMs-Work-Tokens-Prediction-and-APIs.md`**](./06-AI/01-How-LLMs-Work-Tokens-Prediction-and-APIs.md) *(Day 1 - How LLMs Work, Tokenization, Pre-training/SFT/RLHF & API Code Implementation)*
   - 🛠️ [**`02-Building-Chatbots-Memory-and-AI-Agents-with-Tools.md`**](./06-AI/02-Building-Chatbots-Memory-and-AI-Agents-with-Tools.md) *(Day 2 - Conversational Memory, Stateless APIs, AI Agents & Tool/Function Calling)*
   - ⚡ [**`03-Build-Your-Own-Cursor-AI-Coding-Agent-from-Scratch.md`**](./06-AI/03-Build-Your-Own-Cursor-AI-Coding-Agent-from-Scratch.md) *(Day 3 - Build Your Own Cursor: Autonomous Terminal Agent, Filesystem & Self-Healing Loops)*
+  - 🧠 [**`04-Vectors-Embeddings-and-Vector-Databases.md`**](./06-AI/04-Vectors-Embeddings-and-Vector-Databases.md) *(Day 4 - What are Vectors, Embeddings, Cosine Similarity Math & Vector Databases)*
 
 ---
 
