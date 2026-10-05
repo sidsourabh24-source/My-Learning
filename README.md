@@ -46,6 +46,7 @@ Welcome to my personal learning, revision, and code repository! Here, I document
   - ⚡ [**`03-Build-Your-Own-Cursor-AI-Coding-Agent-from-Scratch.md`**](./06-AI/03-Build-Your-Own-Cursor-AI-Coding-Agent-from-Scratch.md) *(Day 3 - Build Your Own Cursor: Autonomous Terminal Agent, Filesystem & Self-Healing Loops)*
   - 🧠 [**`04-Vectors-Embeddings-and-Vector-Databases.md`**](./06-AI/04-Vectors-Embeddings-and-Vector-Databases.md) *(Day 4 - What are Vectors, Embeddings, Cosine Similarity Math & Vector Databases)*
   - 🏗️ [**`05-Internal-Implementation-of-Vector-Databases.md`**](./06-AI/05-Internal-Implementation-of-Vector-Databases.md) *(Day 5 - Internal Architecture: HNSW Skip-Graphs, IVF Voronoi Cells, Product Quantization & ADC)*
+  - 📚 [**`06-Retrieval-Augmented-Generation-RAG-and-LangChain.md`**](./06-AI/06-Retrieval-Augmented-Generation-RAG-and-LangChain.md) *(Day 6 - Retrieval-Augmented Generation (RAG) Architecture, Ingestion Chunking, LangChain & Python Chat-with-PDF)*
 
 ---
 
